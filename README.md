@@ -1,6 +1,6 @@
 Creating a comprehensive README file is essential to help users and collaborators understand your project. Below is a template with details to include in your README file for your React app that displays beer data and supports authentication:
 
-# Beer Explorer App
+# Beer Explorer App (https://beer-app-deployed.netlify.app/)
 
 ## Overview
 
